@@ -1,6 +1,7 @@
 # RIDDLE-OF-THE-SPHINX (172.1 points, sanity check)
 
 Solved by: Kaiziron
+
 Team: D53_H473r5
 
 ### Description :

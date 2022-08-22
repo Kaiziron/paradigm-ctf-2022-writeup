@@ -1,6 +1,7 @@
 # 0xMonaco (93.4/1500 points 6th place (1478.4 ELO), F1)
 
 Solved by: Kaiziron
+
 Team: D53_H473r5  (6th place out of 127)
 
 ### Description :
