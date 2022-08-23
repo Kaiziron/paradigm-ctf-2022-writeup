@@ -211,7 +211,7 @@ However, it does not have any access control, so everyone having the index, acco
 
 All information about the every leaf such as index, address and merkle proof was given in `tree.json` :
 
-```json
+```
 cat tree.json 
 {
     "merkleRoot": "0x5176d84267cd453dad23d8f698d704fc7b7ee6283b5131cb3de77e58eb9c3ec3",
